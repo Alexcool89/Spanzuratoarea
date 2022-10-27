@@ -1,1 +1,1 @@
-# Spanzuratoarea/Hangman
+Hangman
